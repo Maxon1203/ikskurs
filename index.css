@@ -3,7 +3,7 @@ body{
     color: rgb(235, 235, 232);
 }
 .n{
-    background-image: url('/dist/src/img/forest.jpg');
+    background-image: url('forest.jpg');
     font-family: Prompt;
     font-style: normal;
     font-weight: normal;
